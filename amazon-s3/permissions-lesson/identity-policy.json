@@ -27,7 +27,8 @@
                 "s3:GetObject"
             ],
             "Resource": [
-                "arn:aws:s3:::my-example-bucket/*"
+                "arn:aws:s3:::premissions-test-082624",
+                "arn:aws:s3:::premissions-test-082624/*"
             ]
         }
     ]
